@@ -1,3 +1,1 @@
-# aravind
-hii 
-im from nizamabad
+hii im aravind
